@@ -28,3 +28,8 @@ e_type_min_max:
 	Macros for getting min/max value of a type. To be used, for example, in coverage definition.
 https://github.com/efratcdn/e_type_min_max
       
+
+igen-dist:
+----------
+	A code example demonstrating the multiple distribution kinds you can get using soft-select .
+https://github.com/efratcdn/igen-dist
