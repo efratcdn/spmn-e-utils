@@ -12,10 +12,6 @@ This library contains multiple, mostly short, e utilities or examples. One can d
   https://github.com/etl-spmn/etl 
     
       
-      
-      
-      
-
  
  elib-spmn:
  ----------
@@ -33,3 +29,11 @@ igen-dist:
 ----------
 	A code example demonstrating the multiple distribution kinds you can get using soft-select .
 https://github.com/efratcdn/igen-dist
+
+parallel_for_each:
+-----------------
+	An example and macros implementing a "parallel for each" - combination of "for each in list" and "all of".
+.
+https://github.com/efratcdn/parallel_for_each
+
+
