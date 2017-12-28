@@ -37,3 +37,8 @@ parallel_for_each:
 https://github.com/efratcdn/parallel_for_each
 
 
+spmn-dut_error:
+--------------
+       An example of extending the dut_error_struct, to add your own activities when an error is about to be reported.
+       
+https://github.com/efratcdn/spmn-dut_error
