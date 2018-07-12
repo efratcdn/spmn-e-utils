@@ -52,7 +52,15 @@ https://github.com/efratcdn/keep_multi_lists
 
 
 e2hdl check enum compatibility 
-----------------
+------------------------------
      Ensure enums defined in SV and e have same values
      
 https://github.com/efratcdn/e2hdl_check_alignment
+
+
+save restart demo
+-----------------
+     Small demo of saving a snapshot during the run, restarting it, and dynamic loading file
+     
+https://github.com/efratcdn/save_restart_demo
+
