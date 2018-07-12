@@ -49,3 +49,10 @@ keep_multi_lists:
       Applying same constraints on multiple lists
 
 https://github.com/efratcdn/keep_multi_lists
+
+
+e2hdl check enum compatibility 
+----------------
+     Ensure enums defined in SV and e have same values
+     
+https://github.com/efratcdn/e2hdl_check_alignment
