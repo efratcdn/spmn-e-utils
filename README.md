@@ -4,6 +4,13 @@ A library of e utilities and small examples
 This library contains multiple, mostly short, e utilities or examples. One can download the code and use it as is, or use as a basis of copy & paste
 
 
+  reflection_examples:
+  -------------------
+  
+       Multiple examples, demonstrating usage of e reflection
+       
+       https://github.com/efratcdn/reflection_examples
+       
 
   etl-spmn: 
   --------
