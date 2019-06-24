@@ -37,12 +37,6 @@ igen-dist:
 	A code example demonstrating the multiple distribution kinds you can get using soft-select .
 https://github.com/efratcdn/igen-dist
 
-parallel_for_each:
------------------
-	An example and macros implementing a "parallel for each" - combination of "for each in list" and "all of".
-.
-https://github.com/efratcdn/parallel_for_each
-
 
 spmn-dut_error:
 --------------
