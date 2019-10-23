@@ -7,7 +7,7 @@ This library contains multiple, mostly short, e utilities or examples. One can d
   Specman-Python Integration:
   -------------------
   
-       A small utility, integration of Specman and Python - drawing coverage plot dyuring the test run
+       Demonstrating integration of Specman and Python - drawing coverage plot dyuring the test run
        
   https://github.com/okirsh/Specman-Python
 
