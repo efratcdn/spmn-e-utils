@@ -4,6 +4,13 @@ A library of e utilities and small examples
 This library contains multiple, mostly short, e utilities or examples. One can download the code and use it as is, or use as a basis of copy & paste
 
 
+  Specman-Python Integration:
+  -------------------
+  
+       A small utility, integration of Specman and Python - drawing coverage plot dyuring the test run
+       
+  https://github.com/okirsh/Specman-Python
+
   reflection_examples:
   -------------------
   
