@@ -3,6 +3,14 @@ A library of e utilities and small examples
 
 This library contains multiple, mostly short, e utilities or examples. One can download the code and use it as is, or use as a basis of copy & paste
 
+   Cover on any event
+   ------------------
+   
+       Sampling cover group per emission of one of multiple events
+
+
+  https://github.com/efratcdn/cover_on_any_event
+
 
   Specman-Python Integration:
   -------------------
