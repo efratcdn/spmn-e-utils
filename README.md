@@ -3,6 +3,14 @@ A library of e utilities and small examples
 
 This library contains multiple, mostly short, e utilities or examples. One can download the code and use it as is, or use as a basis of copy & paste
 
+   Cover Callback Calling Python 
+   -----------------------------
+   
+       Usage example of Coverage Callback API, and of Specman-Python integration.
+       
+  https://github.com/efratcdn/cover_callback
+
+
    Cover on any event
    ------------------
    
