@@ -3,6 +3,14 @@ A library of e utilities and small examples
 
 This library contains multiple, mostly short, e utilities or examples. One can download the code and use it as is, or use as a basis of copy & paste
 
+   Dependency Util
+   ---------------
+   Finding dependencies between elements (directories, files, types). To be used, for example, when want to create a sub environment and 
+   need to remove dependencies (so the subset can run independently) 
+   
+ https://github.com/efratcdn/dependency_util
+ 
+
    Cover Callback report cover hit 
    -------------------------------
    
